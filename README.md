@@ -15,9 +15,10 @@ a background in mechanical systems and banking into cybersecurity.
 - Master of Arts (Business Economics) from Thammasat University, Thailand
 
 ## Skills in Progress
-- Python · HTML/CSS/JavaScript
-- Network fundamentals · Security concepts
-- TryHackMe labs
+- Python · HTML · CSS · JavaScript
+- Networking · Subnetting · DNS · DHCP
+- Security fundamentals · TryHackMe labs
+- CompTIA A+ (in progress)
 
 ## Projects
 - [IT Cybersecurity Planner](https://nattapongsindhu.github.io/IT-Cybersecurity-Planner/) — Interactive degree planner web app
@@ -26,3 +27,4 @@ a background in mechanical systems and banking into cybersecurity.
 
 ## Connect
 📍 Los Angeles, CA
+🔗 [LinkedIn](https://linkedin.com/in/your-profile)
