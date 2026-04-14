@@ -11,7 +11,7 @@ a background in mechanical systems and banking into cybersecurity.
 ## Background
 - 6 years as Auto Loan Officer at Kiatnakin Bank, Thailand (banking operations)
 - 4 years as Maintenance Mechanic at USPS Pasadena, CA (industrial systems)
-- Bachelor in Marketing (BBA) from Bangkok Thonburi University, Thailand
+- Bachelor in Business Administration (Marketing) from Bangkok Thonburi University, Thailand
 - Master of Arts (Business Economics) from Thammasat University, Thailand
 
 ## Skills in Progress
