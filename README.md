@@ -14,7 +14,7 @@ a background in mechanical systems and banking into cybersecurity.
 - 2010-2016: Auto Loan Officer at Kiatnakin Bank, Thailand (banking operations)
 
 **Education**
-- 2026-Present: IT Cybersecurity, LACC & Pilot Training, GCC
+- 2026-Present: IT Cybersecurity at LACC & Pilot Training at GCC
 - 2014-2016: Master of Arts (M.A. in Business Economics) from Thammasat University, Thailand
 - 2005-2007: Bachelor of Business Administration (B.B.A. in Marketing) from Bangkok Thonburi University, Thailand
 
