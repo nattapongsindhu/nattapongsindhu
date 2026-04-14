@@ -9,10 +9,10 @@ a background in mechanical systems and banking into cybersecurity.
 - 🔧 Maintenance Mechanic at USPS Pasadena, CA — keeping high-volume sorting systems running
 
 ## Background
-- 6 years as Auto Loan Officer at Kiatnakin Bank, Thailand (banking operations)
-- 4 years as Maintenance Mechanic at USPS Pasadena, CA (industrial systems)
-- Bachelor of Business Administration (B.B.A. in Marketing) from Bangkok Thonburi University, Thailand
+- 2022-Present: Maintenance Mechanic at USPS Pasadena, CA (industrial systems)
+- 2010-2016: Auto Loan Officer at Kiatnakin Bank, Thailand (banking operations)
 - Master of Arts (M.A. in Business Economics) from Thammasat University, Thailand
+- Bachelor of Business Administration (B.B.A. in Marketing) from Bangkok Thonburi University, Thailand
 
 ## Skills in Progress
 - Python · HTML · CSS · JavaScript
