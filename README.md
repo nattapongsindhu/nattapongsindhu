@@ -19,10 +19,10 @@ a background in mechanical systems and banking into cybersecurity.
 - 2005-2007: Bachelor of Business Administration (B.B.A. in Marketing) from Bangkok Thonburi University, Thailand
 
 ## Skills in Progress
+- CompTIA A+ (in progress)
 - Python · HTML · CSS · JavaScript
 - Networking · Subnetting · DNS · DHCP
 - Security fundamentals · TryHackMe labs
-- CompTIA A+ (in progress)
 
 ## Projects
 - [IT Cybersecurity Planner](https://nattapongsindhu.github.io/IT-Cybersecurity-Planner/) — Interactive degree planner web app
