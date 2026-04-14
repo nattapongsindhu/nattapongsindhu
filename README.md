@@ -11,8 +11,8 @@ a background in mechanical systems and banking into cybersecurity.
 ## Background
 - 2022-Present: Maintenance Mechanic at USPS Pasadena, CA (industrial systems)
 - 2010-2016: Auto Loan Officer at Kiatnakin Bank, Thailand (banking operations)
-- Master of Arts (M.A. in Business Economics) from Thammasat University, Thailand
-- Bachelor of Business Administration (B.B.A. in Marketing) from Bangkok Thonburi University, Thailand
+- 2014-2016: Master of Arts (M.A. in Business Economics) from Thammasat University, Thailand
+- 2005-2007: Bachelor of Business Administration (B.B.A. in Marketing) from Bangkok Thonburi University, Thailand
 
 ## Skills in Progress
 - Python · HTML · CSS · JavaScript
