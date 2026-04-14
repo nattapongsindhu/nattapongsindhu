@@ -5,7 +5,7 @@ a background in mechanical systems and banking into cybersecurity.
 
 ## Currently
 - 📚 Studying IT Cybersecurity at LACC — CompTIA A+ → Network+ → Security+ → CySA+ → PenTest+
-- ✈️ Aviation and Transportation in Pilot training at Glendale Community College, CA
+- ✈️ Pilot Training at Glendale Community College, CA
 - 🔧 Maintenance Mechanic at USPS — keeping high-volume sorting systems running
 
 ## Background
