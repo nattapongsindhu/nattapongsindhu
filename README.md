@@ -6,7 +6,7 @@ a background in mechanical systems and banking into cybersecurity.
 ## Currently
 - 📚 Studying IT Cybersecurity at LACC — CompTIA A+ → Network+ → Security+ → CySA+ → PenTest+
 - ✈️ Pilot Training at Glendale Community College, CA
-- 🔧 Maintenance Mechanic at USPS — keeping high-volume sorting systems running
+- 🔧 Maintenance Mechanic at USPS Pasadena, CA — keeping high-volume sorting systems running
 
 ## Background
 - 6 years as Auto Loan Officer at Kiatnakin Bank, Thailand (banking operations)
