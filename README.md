@@ -35,3 +35,4 @@ a background in mechanical systems and banking into cybersecurity.
 - 🌐 [Portfolio](https://nattapongsindhu.github.io/)
 - 📄 [Resume](https://nattapongsindhu.github.io/Resume/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nattapong-sindhu-8313b4130)
+![streak](https://streak-stats.demolab.com?user=nattapongsindhu&theme=dark)
