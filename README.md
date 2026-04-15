@@ -31,11 +31,7 @@ a background in mechanical systems and banking into cybersecurity.
 
 ## Connect
 📍 Los Angeles, CA 
-
-📉 [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss)
-
-🌐 [Portfolio](https://nattapongsindhu.github.io/)
-
-📄 [Resume](https://nattapongsindhu.github.io/Resume/)
-
-💼 [LinkedIn](https://www.linkedin.com/in/nattapong-sindhu-8313b4130)
+- 📉 [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss)
+- 🌐 [Portfolio](https://nattapongsindhu.github.io/)
+- 📄 [Resume](https://nattapongsindhu.github.io/Resume/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nattapong-sindhu-8313b4130)
