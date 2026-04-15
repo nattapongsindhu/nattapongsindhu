@@ -28,6 +28,8 @@ a background in mechanical systems and banking into cybersecurity.
 - [IT Cybersecurity Planner](https://nattapongsindhu.github.io/IT-Cybersecurity-Planner/) — Interactive degree planner web app
 - [IT Cybersecurity Roadmap](https://github.com/nattapongsindhu/IT-Cybersecurity-Roadmap) — Self-study roadmap A+ through PenTest+
 - [Python Labs](https://github.com/nattapongsindhu/LACC-CS101-Python-Labs) — CS101 programming exercises
+- [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) — Zero-cost CI/CD pipeline, real-time LA weather data, anomaly detection
+- [it-for-me](https://github.com/nattapongsindhu/it-for-me) — Automated IT job scanner near ZIP 90029, updated twice daily
 
 ## Connect
 📍 Los Angeles, CA 
