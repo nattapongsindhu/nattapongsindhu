@@ -32,8 +32,4 @@ a background in mechanical systems and banking into cybersecurity.
 ## Connect
 📍 Los Angeles, CA
 
-🌐 [Portfolio](https://nattapongsindhu.github.io/)
-
-📄 [Resume](https://nattapongsindhu.github.io/Resume/)
-
-💼 [LinkedIn](https://www.linkedin.com/in/nattapong-sindhu-8313b4130)
+🌐 [Portfolio](https://nattapongsindhu.github.io/) 📄 [Resume](https://nattapongsindhu.github.io/Resume/) 💼 [LinkedIn](https://www.linkedin.com/in/nattapong-sindhu-8313b4130)
