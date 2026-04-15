@@ -30,6 +30,6 @@ a background in mechanical systems and banking into cybersecurity.
 - [Python Labs](https://github.com/nattapongsindhu/LACC-CS101-Python-Labs) — CS101 programming exercises
 
 ## Connect
-📍 Los Angeles, CA
+📍 Los Angeles, CA  📉 [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss)
 
 🌐 [Portfolio](https://nattapongsindhu.github.io/) 📄 [Resume](https://nattapongsindhu.github.io/Resume/) 💼 [LinkedIn](https://www.linkedin.com/in/nattapong-sindhu-8313b4130)
