@@ -1,5 +1,11 @@
 # Hi, I'm Nattapong Sindhu 👋
 
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0A66C2)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Building-F7DF1E?logo=javascript&logoColor=black)
+![CompTIA](https://img.shields.io/badge/CompTIA-A%2B%20%E2%86%92%20Network%2B%20%E2%86%92%20Security%2B-EA3E23)
+![LACC](https://img.shields.io/badge/LACC-IT%20Cybersecurity-006633)
+
 IT Cybersecurity student at Los Angeles City College, transitioning from 
 a background in mechanical systems and banking into cybersecurity.
 
