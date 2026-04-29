@@ -31,14 +31,12 @@ a background in mechanical systems and banking into cybersecurity.
 - Security fundamentals · TryHackMe labs
 
 ## Projects
-- [IT-For-Me](https://github.com/nattapongsindhu/it-for-me) — Automated IT job scanner near ZIP 90029, updated twice daily
-- [LA-Weather-Automet](https://github.com/nattapongsindhu/la-weather-automet) — Zero-cost CI/CD pipeline, real-time LA weather data, anomaly detection
-- [Resume](https://github.com/nattapongsindhu/Resume) — Single-page interactive resume, dark/light theme, print-to-PDF
+- [it-ssset-tracker](https://github.com/nattapongsindhu/it-asset-tracker) - Production-ready IT asset management system with Supabase, audit workflows, maintenance logs, and Vercel deployment.
+- [it-for-me](https://github.com/nattapongsindhu/it-for-me) - Healthcare IT portfolio and job-tracking dashboard with Supabase data, analytics, follow-up queue, and production deployment.
+- [LA-weather-automate](https://github.com/nattapongsindhu/LA-Weather-Automate) - Automated weather data pipeline with scheduled updates and anomaly detection.
+- [Resume](https://github.com/nattapongsindhu/Resume) - Interactive resume site with responsive design and print-to-PDF support.
 - [IT Cybersecurity Planner](https://nattapongsindhu.github.io/IT-Cybersecurity-Planner/) — Interactive degree planner web app
 - [IT Cybersecurity Roadmap](https://github.com/nattapongsindhu/IT-Cybersecurity-Roadmap) — Self-study roadmap A+ through PenTest+
-- [Python Labs](https://github.com/nattapongsindhu/LACC-CS101-Python-Labs) — CS101 programming exercises
-
-
 
 ## Connect
 📍 Los Angeles, CA 
