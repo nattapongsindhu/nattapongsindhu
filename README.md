@@ -33,7 +33,9 @@ a background in mechanical systems and banking into cybersecurity.
 ## Projects
 - [it-for-me](https://github.com/nattapongsindhu/it-for-me) - Tracks IT jobs, applications, analytics, and follow-ups.
 - [it-asset-tracker](https://github.com/nattapongsindhu/it-asset-tracker) - Tracks IT assets, assignments, maintenance, and audit history.
+- [network-configuration-guide](https://github.com/nattapongsindhu/network-configuration-guide) — Interactive network topology and configuration documentation portal.
 - [LA-weather-automate](https://github.com/nattapongsindhu/la-weather-automet) - Automated weather data pipeline with scheduled updates and anomaly detection.
+- [called-LA-home](https://github.com/nattapongsindhu/called-la-home) — LA housing assistance search app with eligibility logic and Google Maps integration.
 - [IT Cybersecurity Planner](https://nattapongsindhu.github.io/IT-Cybersecurity-Planner/) — Interactive degree planner web app
 - [IT Cybersecurity Roadmap](https://github.com/nattapongsindhu/IT-Cybersecurity-Roadmap) — Self-study roadmap A+ through PenTest+
 
