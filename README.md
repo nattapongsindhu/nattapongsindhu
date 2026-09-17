@@ -17,12 +17,18 @@ a background in mechanical systems and banking into cybersecurity.
 ## Background
 **Work Experience**
 - 2022-Present: Maintenance Mechanic at USPS Pasadena, CA (industrial systems)
+- 2017-2021: Various Operations & Technical Roles in Los Angeles, CA (worked in automotive, logistics, media, and restaurant operations, gaining hands-on technical and operations experience)
 - 2010-2016: Auto Loan Officer at Kiatnakin Bank, Thailand (banking operations)
 
 **Education**
 - 2026-Present: IT Cybersecurity at LACC & Pilot Training at GCC
 - 2014-2016: Master of Arts (M.A. in Business Economics) from Thammasat University, Thailand
 - 2005-2007: Bachelor of Business Administration (B.B.A. in Marketing) from Bangkok Thonburi University, Thailand
+
+### Career Journey
+- Moved to the U.S. after working in banking in Thailand.  
+- Worked in automotive, logistics, media, and food service before joining USPS as a Maintenance Mechanic.  
+- Now building my technical background toward IT and Cybersecurity.
 
 ## Skills in Progress
 - CompTIA A+ (in progress)
