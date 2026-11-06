@@ -1,1 +1,55 @@
-# Hi, I'm Nattapong Sindhu Γëí╞Æ├ª├»  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Focus-0A66C2) ![Python](https://img.shields.io/badge/Python-Fundamentals-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Projects-F7DF1E?logo=javascript&logoColor=black) ![CompTIA](https://img.shields.io/badge/CompTIA-A%2B%20%E2%86%92%20Network%2B%20%E2%86%92%20Security%2B-EA3E23) ![LACC](https://img.shields.io/badge/LACC-IT%20Cybersecurity-006633)  IT Cybersecurity student at Los Angeles City College, transitioning from  a background in mechanical systems and banking into cybersecurity.  ## Currently - Γëí╞Æ├┤├£ Studying IT Cybersecurity at LACC ╬ô├ç├╢ CompTIA A+ ╬ô├Ñ├å Network+ ╬ô├Ñ├å Security+ ╬ô├Ñ├å CySA+ ╬ô├Ñ├å PenTest+ - ╬ô┬ú├¬Γê⌐Γòò├à Pilot Training at Glendale Community College, CA - Γëí╞Æ├╢┬║ Maintenance Mechanic at USPS Pasadena, CA ╬ô├ç├╢ keeping high-volume sorting systems running  ## Background **Work Experience** - 2022-Present: Maintenance Mechanic at USPS Pasadena, CA (industrial systems) - 2017-2021: Various Operations & Technical Roles in Los Angeles, CA (worked in automotive, logistics, media, and restaurant operations, gaining hands-on technical and operations experience) - 2010-2016: Auto Loan Officer at Kiatnakin Bank, Thailand (banking operations)  **Education** - 2026-Present: IT Cybersecurity at LACC & Pilot Training at GCC - 2014-2016: Master of Arts (M.A. in Business Economics) from Thammasat University, Thailand - 2005-2007: Bachelor of Business Administration (B.B.A. in Marketing) from Bangkok Thonburi University, Thailand  ### Career Journey - Moved to the U.S. after working in banking in Thailand.   - Worked in automotive, logistics, media, and food service before joining USPS as a Maintenance Mechanic.   - Now building my technical background toward IT and Cybersecurity.  ## Skills in Progress - CompTIA A+ (in progress) - Python Γö¼Γòû HTML Γö¼Γòû CSS Γö¼Γòû JavaScript - Networking Γö¼Γòû Subnetting Γö¼Γòû DNS Γö¼Γòû DHCP - Security fundamentals Γö¼Γòû TryHackMe labs  ## Projects - [it-for-me](https://github.com/nattapongsindhu/it-for-me) - Tracks IT jobs, applications, analytics, and follow-ups. - [it-asset-tracker](https://github.com/nattapongsindhu/it-asset-tracker) - Tracks IT assets, assignments, maintenance, and audit history. - [network-configuration-guide](https://github.com/nattapongsindhu/network-configuration-guide) ╬ô├ç├╢ Interactive network topology and configuration documentation portal. - [LA-weather-automate](https://github.com/nattapongsindhu/la-weather-automet) - Automated weather data pipeline with scheduled updates and anomaly detection. - [called-LA-home](https://github.com/nattapongsindhu/called-la-home) ╬ô├ç├╢ LA housing assistance search app with eligibility logic and Google Maps integration. - [IT Cybersecurity Planner](https://nattapongsindhu.github.io/IT-Cybersecurity-Planner/) ╬ô├ç├╢ Interactive degree planner web app - [IT Cybersecurity Roadmap](https://github.com/nattapongsindhu/IT-Cybersecurity-Roadmap) ╬ô├ç├╢ Self-study roadmap A+ through PenTest+  ## Connect Γëí╞Æ├┤├¼ Los Angeles, CA  - Γëí╞Æ├«├ë [Portfolio](https://nattapongsindhu.github.io/) - Γëí╞Æ├┤├ñ [Resume](https://nattapongsindhu.github.io/Resume/) - Γëí╞Æ├åΓò¥ [LinkedIn](https://www.linkedin.com/in/nattapong-sindhu-8313b4130)   ![streak](https://streak-stats.demolab.com?user=nattapongsindhu&theme=dark)
+# Hi, I'm Nattapong Sindhu 👋
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Focus-0A66C2)
+![Python](https://img.shields.io/badge/Python-Fundamentals-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Projects-F7DF1E?logo=javascript&logoColor=black)
+![CompTIA](https://img.shields.io/badge/CompTIA-A%2B%20%E2%86%92%20Network%2B%20%E2%86%92%20Security%2B-EA3E23)
+![LACC](https://img.shields.io/badge/LACC-IT%20Cybersecurity-006633)
+
+IT Cybersecurity student at Los Angeles City College, transitioning from 
+a background in mechanical systems and banking into cybersecurity.
+
+## Currently
+- 📚 Studying IT Cybersecurity at LACC — CompTIA A+ → Network+ → Security+ → CySA+ → PenTest+
+- ✈️ Pilot Training at Glendale Community College, CA
+- 🔧 Maintenance Mechanic at USPS Pasadena, CA — keeping high-volume sorting systems running
+
+## Background
+**Work Experience**
+- 2022-Present: Maintenance Mechanic at USPS Pasadena, CA (industrial systems)
+- 2017-2021: Various Operations & Technical Roles in Los Angeles, CA (worked in automotive, logistics, media, and restaurant operations, gaining hands-on technical and operations experience)
+- 2010-2016: Auto Loan Officer at Kiatnakin Bank, Thailand (banking operations)
+
+**Education**
+- 2026-Present: IT Cybersecurity at LACC & Pilot Training at GCC
+- 2014-2016: Master of Arts (M.A. in Business Economics) from Thammasat University, Thailand
+- 2005-2007: Bachelor of Business Administration (B.B.A. in Marketing) from Bangkok Thonburi University, Thailand
+
+### Career Journey
+- Moved to the U.S. after working in banking in Thailand.  
+- Worked in automotive, logistics, media, and food service before joining USPS as a Maintenance Mechanic.  
+- Now building my technical background toward IT and Cybersecurity.
+
+## Skills in Progress
+- CompTIA A+ (in progress)
+- Python · HTML · CSS · JavaScript
+- Networking · Subnetting · DNS · DHCP
+- Security fundamentals · TryHackMe labs
+
+## Projects
+- [tryhackme-cybersecurity-portfolio](https://github.com/nattapongsindhu/tryhackme-cybersecurity-portfolio) - Hands-on TryHackMe security labs, SOC investigations, vulnerability assessments, and technical write-ups.
+- [it-for-me](https://github.com/nattapongsindhu/it-for-me) - Tracks IT jobs, applications, analytics, and follow-ups.
+- [it-asset-tracker](https://github.com/nattapongsindhu/it-asset-tracker) - Tracks IT assets, assignments, maintenance, and audit history.
+- [network-configuration-guide](https://github.com/nattapongsindhu/network-configuration-guide) — Interactive network topology and configuration documentation portal.
+- [LA-weather-automate](https://github.com/nattapongsindhu/la-weather-automet) - Automated weather data pipeline with scheduled updates and anomaly detection.
+- [called-LA-home](https://github.com/nattapongsindhu/called-la-home) — LA housing assistance search app with eligibility logic and Google Maps integration.
+- [IT Cybersecurity Planner](https://nattapongsindhu.github.io/IT-Cybersecurity-Planner/) — Interactive degree planner web app
+- [IT Cybersecurity Roadmap](https://github.com/nattapongsindhu/IT-Cybersecurity-Roadmap) — Self-study roadmap A+ through PenTest+
+
+## Connect
+📍 Los Angeles, CA 
+- 🌐 [Portfolio](https://nattapongsindhu.github.io/)
+- 📄 [Resume](https://nattapongsindhu.github.io/Resume/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nattapong-sindhu-8313b4130)
+ 
+![streak](https://streak-stats.demolab.com?user=nattapongsindhu&theme=dark)
