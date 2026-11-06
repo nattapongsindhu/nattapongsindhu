@@ -37,7 +37,7 @@ a background in mechanical systems and banking into cybersecurity.
 - Security fundamentals · TryHackMe labs
 
 ## Projects
-- [tryhackme-cybersecurity-portfolio](https://github.com/nattapongsindhu/tryhackme-cybersecurity-portfolio) - Hands-on TryHackMe security labs, SOC investigations, vulnerability assessments, and technical write-ups.
+- [tryhackme-cybersecurity-portfolio](https://github.com/nattapongsindhu/tryhackme-cybersecurity-portfolio) - Hands-on TryHackMe labs, SOC investigations, and security reports.
 - [it-for-me](https://github.com/nattapongsindhu/it-for-me) - Tracks IT jobs, applications, analytics, and follow-ups.
 - [it-asset-tracker](https://github.com/nattapongsindhu/it-asset-tracker) - Tracks IT assets, assignments, maintenance, and audit history.
 - [network-configuration-guide](https://github.com/nattapongsindhu/network-configuration-guide) — Interactive network topology and configuration documentation portal.
